@@ -1,3 +1,5 @@
+appsettings.json
+appsettings.Development.json
 internal-nlog-AspNetCore3.txt
 .vscode/
 obj/
